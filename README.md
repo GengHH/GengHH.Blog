@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 小人物
+tagline: not pleased by external gains, not saddened by personnal losses.
 heroImage: /logo.png
 heroImageStyle:
   {
@@ -13,7 +13,7 @@ heroImageStyle:
     borderRadius: "1rem",
   }
 bgImageStyle: { height: "100vh" }
-isShowTitleInHome: true
+isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
 features:
