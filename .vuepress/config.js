@@ -2,9 +2,9 @@
  * @Author: GengHH
  * @Date: 2022-08-16 10:50:18
  * @LastEditors: GengHH
- * @LastEditTime: 2022-08-16 13:19:31
+ * @LastEditTime: 2022-08-18 11:22:40
  * @Description: file content
- * @FilePath: \gitHubPage\myBlog\.vuepress\config.js
+ * @FilePath: \gitHubPage\GengHH.Blog\.vuepress\config.js
  */
 module.exports = {
 	title: "Genghh's Blog",
