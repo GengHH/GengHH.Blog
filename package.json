@@ -1,7 +1,8 @@
 {
 	"name": "ghh-blog",
 	"version": "1.0.0",
-	"author": "Ghh",
+	"author": "GengHH",
+	"homepage": "https://genghh-blog.onrender.com/",
 	"scripts": {
 		"dev": "vuepress dev . --open --host \"localhost\"",
 		"build": "vuepress build ."
@@ -10,5 +11,5 @@
 		"vuepress": "1.8.2",
 		"vuepress-theme-reco": "1.6.14"
 	},
-	"description": "use vuepress@1.x and vuepress-theme-reco "
+	"description": "Develop whith vuepress@1.x and vuepress-theme-reco@1.x;Deploy with https://dashboard.render.com"
 }
