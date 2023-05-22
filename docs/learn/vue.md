@@ -14,7 +14,8 @@ date: 2022-05-10
 * [Vue2.x源码系列04-依赖收集](https://juejin.cn/post/7213672268152324151): _https://juejin.cn/post/7213672268152324151_
 * [Vue2.x源码系列05-异步更新及nextTick原理](https://juejin.cn/post/7215568891125022778): _https://juejin.cn/post/7215568891125022778_
 * [Vue2.x源码系列06-计算属性computed原理](https://juejin.cn/post/7220020535299539002): _https://juejin.cn/post/7220020535299539002_
-* [Vue2.x源码系列06-侦听器watch原理](https://juejin.cn/post/7220035506989514809): _https://juejin.cn/post/7220035506989514809_
+* [Vue2.x源码系列07-侦听器watch原理](https://juejin.cn/post/7220035506989514809): _https://juejin.cn/post/7220035506989514809_
+* [Vue2.x源码系列08-Diff算法原理](https://juejin.cn/post/7233324859932803128): _https://juejin.cn/post/7233324859932803128_
 ---
 ### 二、**Vue3**
 
