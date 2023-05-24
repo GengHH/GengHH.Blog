@@ -1,5 +1,5 @@
 ---
-title: 笔记
+title: Vue笔记
 date: 2022-05-10
 ---
 

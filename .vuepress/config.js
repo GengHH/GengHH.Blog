@@ -67,7 +67,7 @@ module.exports = {
 		],
 		sidebar: {
 			'/docs/theme-reco/': ['', 'theme', 'plugin', 'api'],
-			'/docs/learn/': ['', 'vue'],
+			'/docs/learn/': ['', 'vue', 'docker'],
 		},
 		type: 'blog',
 		blogConfig: {
