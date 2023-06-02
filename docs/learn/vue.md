@@ -25,13 +25,14 @@ date: 2022-05-10
 * [vue3官网](https://cn.vuejs.org/)： _https://cn.vuejs.org/_
 
 * [组合式Api功能函数库☛☛☛](https://vueuse.cn/)：_https://vueuse.cn/_
+* [Vue3常用知识库☛☛☛☛☛☛](https://hu-snail.github.io/vue3-resource/)：_https://hu-snail.github.io/vue3-resource/_
 ---
 ### 三、刷题网站（夯实基础、查缺补漏）
 
 * [LeetCode-算法](https://leetcode.cn)：_https://leetcode.cn_
 
 * [前端常用面试题](https://fe.ecool.fun/topic-list)：_https://fe.ecool.fun/topic-list_
-
+* [Vue3挑战题](https://cn-vuejs-challenges.netlify.app/)：_https://cn-vuejs-challenges.netlify.app/_
 ---
 ### 四、github实际项目借鉴和学习
 
